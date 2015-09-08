@@ -21,5 +21,6 @@
       </library>
     </orderEntry>
     <orderEntry type="library" name="mpj" level="project" />
+    <orderEntry type="library" name="Maven: gov.nist.math:jama:1.0.3" level="project" />
   </component>
 </module>
